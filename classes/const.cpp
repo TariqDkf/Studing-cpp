@@ -11,5 +11,11 @@ int main(){
 
     std::cout << circumference << "cm";
 
+    const int LIGHT_SPEED = 2999792458;
+    const int WIDTH = 1920;
+    const int HEIGTH = 1080;
+    
+    //is a good pratice use UPPERCASE to define a const variable
+
     return 0;
 }
